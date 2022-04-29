@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+<h1 align="center">Github Stats</h1>
+
+<div align="center">
+  
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=08Harshita&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+ </div>
+ 
+ 
+<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=08Harshita&&show_icons=true&theme=dark" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=08Harshita&layout=compact&theme=dark" width="46%" />
+<br>
+<img src="https://activity-graph.herokuapp.com/graph?username=08Harshita&theme=xcode">
