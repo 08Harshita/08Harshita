@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a highly motivated and dynamic undergraduate,specializing in Information Technology. I love brainstorming and solving problems, and seeking a rewarding position with a progressive organization. Looking forward to learn new technology as well as work in good organization culture.
+As a motivated business student with a tech background, I bridge business-technology gaps, adapt to global challenges, and use strong problem-solving skills and sustainability focus to drive innovation and optimize operations.
 
 <!--
 **08Harshita/08Harshita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
